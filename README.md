@@ -5,5 +5,5 @@ Making a new website directly on GitHub
 Next Steps
 You've successfully created, personalized, and published your first GitHub Pages website but there's so much more to explore! Here are some helpful resources for taking your next steps with GitHub Pages:
 
-Adding content to your GitHub Pages site using Jekyll: This guide explains how to add additional pages to your site.
-Configuring a custom domain for your GitHub Pages site: You can host your site on GitHub's github.io domain or your own custom domain.
+Adding content to your GitHub Pages site using Jekyll: This guide explains how to add additional pages to your site. src="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites"
+Configuring a custom domain for your GitHub Pages site: You can host your site on GitHub's github.io domain or your own custom domain. src="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site"
